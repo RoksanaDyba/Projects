@@ -35,6 +35,7 @@ Istnieje możliwość rozpoczęcia quizu od nowa.
 
 ## Technologie użyte w projekcie:
 Język programowania: Java
+
 Framework: Android SDK
 Interfejs użytkownika: Android XML Layouts
 Mechanizm przekazywania danych: Intent z putExtra i getStringExtra
