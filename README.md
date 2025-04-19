@@ -2,6 +2,7 @@
 
 Platforma: Android (Java)
 
+
 ## Opis funkcjonalności:
 Aplikacja umożliwia użytkownikowi rozwiązanie quizu dotyczącego znajomości filmów i seriali. Rozgrywka polega na rozpoznawaniu tytułów filmów na podstawie obrazów i wybieraniu poprawnej odpowiedzi z czterech dostępnych opcji.
 
@@ -30,3 +31,10 @@ Po zakończeniu quizu wynik jest przekazywany do ekranu wyników.
 ### Wynik (ResultActivity):
 Wyświetla liczbę zdobytych punktów.
 Istnieje możliwość rozpoczęcia quizu od nowa.
+
+
+## Technologie użyte w projekcie:
+Język programowania: Java
+Framework: Android SDK
+Interfejs użytkownika: Android XML Layouts
+Mechanizm przekazywania danych: Intent z putExtra i getStringExtra
